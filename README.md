@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mt-fret
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Mateusz Fret
+- 👀 I’m interested in switching profession to IT
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 mt-fret/mt-fret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
